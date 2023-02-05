@@ -1,6 +1,5 @@
 # Stop Watch
 
-> Stop Watch
 > To see a Live demo click [_here_](https://danieltrandafir.github.io/Stop-Watch/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents

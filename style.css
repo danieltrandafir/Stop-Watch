@@ -72,7 +72,10 @@
         width: fit-content;
         padding: 20px;
     }
-
+ 
+  header h1 span {
+    display: block;
+  }
     .btn-container {
         flex-direction: column;
 
